@@ -1,5 +1,6 @@
 # Track New Liquidity Pools Created on Solana Raydium DEX
 ts-node app.ts
+![running console](https://github.com/BlockchainDev22/raydium-lp-tracker/blob/main/running.png)
 
 ## Covers:
 * Solana
